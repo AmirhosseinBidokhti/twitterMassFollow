@@ -1,0 +1,14 @@
+{
+  "name": "twitter-mass-follow",
+  "version": "1.0.0",
+  "description": "TwitterAccounts.txt -> script -> Follow All ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amirhosseinxt",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-rc-2"
+  }
+}
